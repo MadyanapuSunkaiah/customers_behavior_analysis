@@ -23,7 +23,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 🛠️ How to Use This Project
 Clone the repository
 
-git clone https:
+git clone https:https://github.com/MadyanapuSunkaiah
 
 Open dat cleaning using python.ipynb notebook
 
